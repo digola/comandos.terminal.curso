@@ -1,0 +1,5 @@
+Cria um novo repositório diretamente do terminal.
+gh repo create meu-projeto --public
+
+Clona um repositório do GitHub para sua máquina.
+gh repo clone "nome do repositorio"
